@@ -1,4 +1,5 @@
-# <! DOCTYPE html >
+# 
+<! DOCTYPE html >
 < html  lang = " pt-BR " >
 < cabeça >
     < meta  charset = " UTF-8 " >
@@ -28,3 +29,4 @@
     < script  src = " script.js " > </ script >
 </ body >
 </ html >
+
